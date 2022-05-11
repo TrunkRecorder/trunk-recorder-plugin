@@ -225,6 +225,6 @@ include_directories("/usr/local/include")
 
 
 
-add_subdirectory(unit_script)
+add_subdirectory(example_plugin)
 
 
